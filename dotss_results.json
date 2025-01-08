@@ -1,0 +1,50 @@
+[
+    {
+        "question": 1,
+        "answer": "12345"
+    },
+    {
+        "question": 2,
+        "answer": "67890"
+    },
+    {
+        "question": 3,
+        "answer": "13579"
+    },
+    {
+        "question": 4,
+        "answer": "24680"
+    },
+    {
+        "question": 5,
+        "answer": "14703"
+    },
+    {
+        "question": 6,
+        "answer": "69258"
+    },
+    {
+        "question": 7,
+        "answer": "98765"
+    },
+    {
+        "question": 8,
+        "answer": "43210"
+    },
+    {
+        "question": 9,
+        "answer": "-2358"
+    },
+    {
+        "question": 10,
+        "answer": "01234"
+    },
+    {
+        "question": 11,
+        "answer": "79,35"
+    },
+    {
+        "question": 12,
+        "answer": "-3,69"
+    }
+]
